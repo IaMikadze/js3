@@ -109,7 +109,6 @@ let filteredWords = words.filter(function (word) {
   return word.indexOf("m") !== -1 || word.indexOf("M") !== -1;
 });
 console.log(filteredWords);
-//16
 
 //17
 
